@@ -1,0 +1,26 @@
+# sku:
+#  files: []
+
+# Sample
+DVD02: 
+ files: ["Oversight Inspections Assessment.txt", "Oversight Inspections Assessment Answer Key.txt"]
+DVD03:
+ files: ["STCW 2010 Assessment.txt", "STCW 2010 Assessment Answer Key.txt"]
+DVD04:
+ files: ["Ship Familiarization Assessment.txt", "Ship Familiarization Assessment Answer Key.txt"]
+DVD05:
+ files: ["Oil Pollution Assessment.txt", "Oil Pollution Assessment Answer Key.txt"]
+DVD18:
+ files: ["Access Control Assessment.txt", "Access Control Assessment Answer Key.txt"]
+DVD31:
+ files: ["Safety Drills Assessment.txt", "Safety Drills Assessment Answer Key.txt"]
+DVD33:
+ files: ["Ladder Safety Assessment.txt", "Ladder Safety Assessment Answer Key.txt"]
+DVD34:
+ files: ["Ladder Safety II Assessment.txt", "Ladder Safety II Assessment Answer Key.txt"]
+DVD52:
+ files: ["Ship Stability Assessment.txt", "Ship Stability Assessment Answer Key.txt"]
+DVD55:
+ files: ["Deck Safety Assessment.txt", "Deck Safety Assessment Answer Key.txt"]
+DVD56:
+ files: ["Making and Breaking Tow Assessment.txt", "Making and Breaking Tow Assessment Answer Key.txt"]
