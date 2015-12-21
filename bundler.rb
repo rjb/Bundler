@@ -7,7 +7,7 @@ require 'fileutils'
 
 file_map = YAML.load_file("files.yml")
 
-# Create the bunles dir
+# Create the bundles dir
 dirname = 'bundles'
 FileUtils.mkdir_p(dirname) unless File.directory?(dirname)
 
